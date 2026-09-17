@@ -32,12 +32,3 @@ MATLAB R2025a or later
 
 ## Citation
 If you use this code, please cite
-
-## Code Availability
-This repository currently provides the core MATLAB implementation of
-the single-track Opt3D-assisted correction module, including global
-co-registration, SAR-directional scatterer-to-building association,
-LoD1 height correction, and PS repositioning.
-
-The dual-track fusion and object-level deformation anomaly detection
-modules will be released upon publication of the associated paper.
